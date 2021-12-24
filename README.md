@@ -8,6 +8,8 @@ Using React for including a Checkbox Component also possible.
 
 Remember I accept BAT Token tips. Use Brave Browser! Thanks.
 
+[![](https://github.com/fernangon/Checkbox_Smile/blob/main/BAT.png)](https://github.com/fernangon/Checkbox_Smile/blob/main/BAT.png)
+
 [![](https://github.com/fernangon/Checkbox_Smile/blob/main/1.jpg)](https://github.com/fernangon/Checkbox_Smile/blob/main/1.jpg)
 
 [![](https://github.com/fernangon/Checkbox_Smile/blob/main/2.jpg)](https://github.com/fernangon/Checkbox_Smile/blob/main/2.jpg)
